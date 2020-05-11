@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/nori-chart/static/css/main.455a65aa.chunk.css",
+    "main.js": "/nori-chart/static/js/main.dc358c8c.chunk.js",
+    "main.js.map": "/nori-chart/static/js/main.dc358c8c.chunk.js.map",
+    "runtime-main.js": "/nori-chart/static/js/runtime-main.e2bc86bd.js",
+    "runtime-main.js.map": "/nori-chart/static/js/runtime-main.e2bc86bd.js.map",
+    "static/css/2.7a7233c8.chunk.css": "/nori-chart/static/css/2.7a7233c8.chunk.css",
+    "static/js/2.b1baf884.chunk.js": "/nori-chart/static/js/2.b1baf884.chunk.js",
+    "static/js/2.b1baf884.chunk.js.map": "/nori-chart/static/js/2.b1baf884.chunk.js.map",
+    "index.html": "/nori-chart/index.html",
+    "precache-manifest.796b72488d10f346f44b3379be498fc3.js": "/nori-chart/precache-manifest.796b72488d10f346f44b3379be498fc3.js",
+    "service-worker.js": "/nori-chart/service-worker.js",
+    "static/css/2.7a7233c8.chunk.css.map": "/nori-chart/static/css/2.7a7233c8.chunk.css.map",
+    "static/css/main.455a65aa.chunk.css.map": "/nori-chart/static/css/main.455a65aa.chunk.css.map",
+    "static/js/2.b1baf884.chunk.js.LICENSE.txt": "/nori-chart/static/js/2.b1baf884.chunk.js.LICENSE.txt",
+    "static/media/chart.8b4e48ec.svg": "/nori-chart/static/media/chart.8b4e48ec.svg",
+    "static/media/unfold_less.754d0d11.svg": "/nori-chart/static/media/unfold_less.754d0d11.svg",
+    "static/media/unfold_more.a48cfd38.svg": "/nori-chart/static/media/unfold_more.a48cfd38.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2bc86bd.js",
+    "static/css/2.7a7233c8.chunk.css",
+    "static/js/2.b1baf884.chunk.js",
+    "static/css/main.455a65aa.chunk.css",
+    "static/js/main.dc358c8c.chunk.js"
+  ]
+}
